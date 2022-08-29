@@ -1,0 +1,8 @@
+
+Informações do Documento:
+Numero do documento: 2 
+Data de Vencimento:7404640 
+Valor: 2,000000
+
+ Informações de Clientes:
+Codigo Cliente: 55
